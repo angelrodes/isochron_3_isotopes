@@ -1,6 +1,7 @@
 # 3D (Be-10, Al-26 and Ne-21) isochron calculator
 
-Written by Angel Rodes SUERC-Cosmo
+Written by Angel Rodes  
+SUERC-Cosmo
 
 First version: February 2014
 
